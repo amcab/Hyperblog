@@ -1,0 +1,2 @@
+# Platziblog
+blog platzi
